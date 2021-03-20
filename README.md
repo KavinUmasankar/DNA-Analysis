@@ -1,4 +1,4 @@
-#My Function
+My Function
 
     import sys
     
@@ -55,7 +55,7 @@
     else:
         print("GC classificatoin: moderate GC content")
     
-#Homework Function
+Homework Function
     
     # This program reads in DNA sequencer output and computes statistics, such as
     # the GC content.  Run it from the command line like this:
