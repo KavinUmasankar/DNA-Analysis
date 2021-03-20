@@ -1,4 +1,4 @@
-# DNA-Analysis
+# My Function
     import sys
     
     def filename_to_string(dna_filename):
@@ -54,7 +54,7 @@
     else:
         print("GC classificatoin: moderate GC content")
     
-    
+#Homework Function
     
     # This program reads in DNA sequencer output and computes statistics, such as
     # the GC content.  Run it from the command line like this:
