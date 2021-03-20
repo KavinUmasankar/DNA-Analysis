@@ -1,4 +1,4 @@
-# My Function
+#My Function
     import sys
     
     def filename_to_string(dna_filename):
